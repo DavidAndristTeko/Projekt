@@ -1,4 +1,4 @@
-def check_answer(ChosenAnswer, CurrentOption, QuestionJSON):
+def function_check_answer(ChosenAnswer, CurrentOption, QuestionJSON):
     Result = False  # default
     # Convert user input zu boolean
     user_bool = True if ChosenAnswer.lower() == "y" else False

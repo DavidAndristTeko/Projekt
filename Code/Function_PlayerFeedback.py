@@ -1,4 +1,4 @@
-def player_feedback():
+def function_player_feedback():
     print("Bitte gib deine Antwort ein (y/n): ")
     antwort = input().strip()   # entfernt Leerzeichen
 

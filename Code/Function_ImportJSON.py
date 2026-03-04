@@ -40,4 +40,5 @@ def function_importJSON(path: str, listenposition: int):
     # Gibt die ersten n Elemente zurück
     QuestionJSON = questions[:listenposition]
     questions.pop(listenposition-1)
-    return QuestionJSON
+    RemainingQuestions = questions
+    return QuestionJSON, RemainingQuestions
