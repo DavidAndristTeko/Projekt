@@ -1,4 +1,4 @@
-def ContinuePlaying():
+def function_ContinuePlaying():
     print("Möchtest du weiter Spielen? Antworte mit (y/n): ")
     antwort = input().strip()   # entfernt Leerzeichen
 
