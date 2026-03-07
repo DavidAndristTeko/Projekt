@@ -1,17 +1,8 @@
 def function_ContinuePlaying():
-    print("Möchtest du weiter Spielen? Antworte mit (y/n): ")
-    antwort = input().strip()   # entfernt Leerzeichen
+    while True:
+        antwort = input("Möchtest du weiter spielen? (y/n): ").strip().lower()
 
-    # Eingabe validieren
-    while antwort.lower() not in ("y", "n"):
-        print("Ungültige Eingabe. Bitte nur 'y' oder 'n' eingeben:")
-        antwort = input().strip()
+        if antwort in ("y", "n"):
+            return antwort == "y"
 
-    Answer = antwort.lower()
-    
-    
-    if Answer == "y":
-        ContinuePlaying = True
-    else:
-        ContinuePlaying = False
-    return ContinuePlaying
+        print("Ungültige Eingabe. Bitte nur 'y' oder 'n'.")

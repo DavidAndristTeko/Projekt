@@ -7,4 +7,4 @@ def function_DisplayQuestion(QuestionJSON, QuestionNumber):
     CurrentOption = Answers[QuestionNumber]
     print(CurrentOption["text"])
 
-    return Question, CurrentOption
+    return CurrentOption
