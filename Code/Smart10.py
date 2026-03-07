@@ -62,7 +62,3 @@ while ContinuePlaying:
         break
 
     QuestionJSON, RemainingQuestions = function_CheckNewImport(RemainingQuestions)
-    
-
-
-        
