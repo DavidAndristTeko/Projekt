@@ -5,43 +5,43 @@
       "answers": [
         {
           "text": "Elefant",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Giraffe",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krokodil",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Delfin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Pinguin",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Fledermaus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schlange",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Wal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krabbe",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -50,43 +50,43 @@
       "answers": [
         {
           "text": "Deutschland",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Brasilien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Norwegen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Japan",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Österreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kanada",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Indien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Australien",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -95,43 +95,43 @@
       "answers": [
         {
           "text": "2",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "4",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "7",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "9",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "11",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "15",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "17",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "21",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "23",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "25",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -140,43 +140,43 @@
       "answers": [
         {
           "text": "Helium",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sauerstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Neon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Stickstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Argon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Chlor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Krypton",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Wasserstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Xenon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kohlenstoff",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -185,43 +185,43 @@
       "answers": [
         {
           "text": "Java",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Python",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "C#",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "JavaScript",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Go",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "PHP",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Rust",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "HTML",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kotlin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "CSS",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -230,43 +230,43 @@
       "answers": [
         {
           "text": "Magen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Herz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leber",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lunge",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Darm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Milz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Speiseröhre",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Niere",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Bauchspeicheldrüse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Gehirn",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -275,43 +275,43 @@
       "answers": [
         {
           "text": "Tastatur",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Monitor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Maus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Drucker",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Scanner",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lautsprecher",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Webcam",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Beamer",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mikrofon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Plotter",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -320,43 +320,43 @@
       "answers": [
         {
           "text": "Meter",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sekunde",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kilogramm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Newton",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Ampere",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Watt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kelvin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Volt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mol",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lux",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -365,43 +365,43 @@
       "answers": [
         {
           "text": "Krokodil",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Eidechse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Frosch",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Schlange",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schildkröte",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leguan",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Salamander",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Chamäleon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Adler",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -410,43 +410,43 @@
       "answers": [
         {
           "text": "Frankreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schweiz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Italien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Norwegen",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Türkei",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "USA",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Portugal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "China",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -455,43 +455,43 @@
       "answers": [
         {
           "text": "Elefant",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Giraffe",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krokodil",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Delfin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Pinguin",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Fledermaus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schlange",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Wal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krabbe",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -500,43 +500,43 @@
       "answers": [
         {
           "text": "Deutschland",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Brasilien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Norwegen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Japan",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Österreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kanada",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Indien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Australien",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -545,43 +545,43 @@
       "answers": [
         {
           "text": "2",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "4",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "7",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "9",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "11",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "15",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "17",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "21",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "23",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "25",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -590,43 +590,43 @@
       "answers": [
         {
           "text": "Helium",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sauerstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Neon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Stickstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Argon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Chlor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Krypton",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Wasserstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Xenon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kohlenstoff",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -635,43 +635,43 @@
       "answers": [
         {
           "text": "Java",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Python",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "C#",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "JavaScript",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Go",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "PHP",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Rust",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "HTML",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kotlin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "CSS",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -680,43 +680,43 @@
       "answers": [
         {
           "text": "Magen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Herz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leber",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lunge",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Darm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Milz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Speiseröhre",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Niere",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Bauchspeicheldrüse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Gehirn",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -725,43 +725,43 @@
       "answers": [
         {
           "text": "Tastatur",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Monitor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Maus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Drucker",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Scanner",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lautsprecher",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Webcam",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Beamer",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mikrofon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Plotter",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -770,43 +770,43 @@
       "answers": [
         {
           "text": "Meter",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sekunde",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kilogramm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Newton",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Ampere",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Watt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kelvin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Volt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mol",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lux",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -815,43 +815,43 @@
       "answers": [
         {
           "text": "Krokodil",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Eidechse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Frosch",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Schlange",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schildkröte",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leguan",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Salamander",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Chamäleon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Adler",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -860,43 +860,43 @@
       "answers": [
         {
           "text": "Frankreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schweiz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Italien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Norwegen",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Türkei",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "USA",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Portugal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "China",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -905,43 +905,43 @@
       "answers": [
         {
           "text": "Elefant",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Giraffe",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krokodil",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Delfin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Pinguin",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Fledermaus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schlange",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Wal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krabbe",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -950,43 +950,43 @@
       "answers": [
         {
           "text": "Deutschland",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Brasilien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Norwegen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Japan",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Österreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kanada",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Indien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Australien",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -995,43 +995,43 @@
       "answers": [
         {
           "text": "2",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "4",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "7",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "9",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "11",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "15",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "17",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "21",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "23",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "25",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1040,43 +1040,43 @@
       "answers": [
         {
           "text": "Helium",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sauerstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Neon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Stickstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Argon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Chlor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Krypton",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Wasserstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Xenon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kohlenstoff",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1085,43 +1085,43 @@
       "answers": [
         {
           "text": "Java",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Python",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "C#",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "JavaScript",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Go",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "PHP",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Rust",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "HTML",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kotlin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "CSS",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1130,43 +1130,43 @@
       "answers": [
         {
           "text": "Magen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Herz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leber",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lunge",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Darm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Milz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Speiseröhre",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Niere",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Bauchspeicheldrüse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Gehirn",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1175,43 +1175,43 @@
       "answers": [
         {
           "text": "Tastatur",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Monitor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Maus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Drucker",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Scanner",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lautsprecher",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Webcam",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Beamer",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mikrofon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Plotter",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1220,43 +1220,43 @@
       "answers": [
         {
           "text": "Meter",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sekunde",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kilogramm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Newton",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Ampere",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Watt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kelvin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Volt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mol",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lux",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1265,43 +1265,43 @@
       "answers": [
         {
           "text": "Krokodil",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Eidechse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Frosch",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Schlange",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schildkröte",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leguan",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Salamander",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Chamäleon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Adler",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1310,43 +1310,43 @@
       "answers": [
         {
           "text": "Frankreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schweiz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Italien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Norwegen",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Türkei",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "USA",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Portugal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "China",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1355,43 +1355,43 @@
       "answers": [
         {
           "text": "Elefant",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Giraffe",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krokodil",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Delfin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Pinguin",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Fledermaus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schlange",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Wal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krabbe",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1400,43 +1400,43 @@
       "answers": [
         {
           "text": "Deutschland",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Brasilien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Norwegen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Japan",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Österreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kanada",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Indien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Australien",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1445,43 +1445,43 @@
       "answers": [
         {
           "text": "2",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "4",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "7",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "9",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "11",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "15",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "17",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "21",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "23",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "25",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1490,43 +1490,43 @@
       "answers": [
         {
           "text": "Helium",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sauerstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Neon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Stickstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Argon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Chlor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Krypton",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Wasserstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Xenon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kohlenstoff",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1535,43 +1535,43 @@
       "answers": [
         {
           "text": "Java",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Python",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "C#",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "JavaScript",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Go",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "PHP",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Rust",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "HTML",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kotlin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "CSS",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1580,43 +1580,43 @@
       "answers": [
         {
           "text": "Magen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Herz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leber",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lunge",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Darm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Milz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Speiseröhre",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Niere",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Bauchspeicheldrüse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Gehirn",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1625,43 +1625,43 @@
       "answers": [
         {
           "text": "Tastatur",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Monitor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Maus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Drucker",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Scanner",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lautsprecher",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Webcam",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Beamer",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mikrofon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Plotter",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1670,43 +1670,43 @@
       "answers": [
         {
           "text": "Meter",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sekunde",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kilogramm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Newton",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Ampere",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Watt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kelvin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Volt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mol",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lux",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1715,43 +1715,43 @@
       "answers": [
         {
           "text": "Krokodil",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Eidechse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Frosch",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Schlange",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schildkröte",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leguan",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Salamander",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Chamäleon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Adler",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1760,43 +1760,43 @@
       "answers": [
         {
           "text": "Frankreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schweiz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Italien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Norwegen",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Türkei",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "USA",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Portugal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "China",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1805,43 +1805,43 @@
       "answers": [
         {
           "text": "Elefant",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Giraffe",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krokodil",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Delfin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Pinguin",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Fledermaus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schlange",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Wal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krabbe",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1850,43 +1850,43 @@
       "answers": [
         {
           "text": "Deutschland",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Brasilien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Norwegen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Japan",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Österreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kanada",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Indien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Australien",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1895,43 +1895,43 @@
       "answers": [
         {
           "text": "2",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "4",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "7",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "9",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "11",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "15",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "17",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "21",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "23",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "25",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1940,43 +1940,43 @@
       "answers": [
         {
           "text": "Helium",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sauerstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Neon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Stickstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Argon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Chlor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Krypton",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Wasserstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Xenon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kohlenstoff",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -1985,43 +1985,43 @@
       "answers": [
         {
           "text": "Java",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Python",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "C#",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "JavaScript",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Go",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "PHP",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Rust",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "HTML",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kotlin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "CSS",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2030,43 +2030,43 @@
       "answers": [
         {
           "text": "Magen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Herz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leber",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lunge",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Darm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Milz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Speiseröhre",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Niere",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Bauchspeicheldrüse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Gehirn",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2075,43 +2075,43 @@
       "answers": [
         {
           "text": "Tastatur",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Monitor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Maus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Drucker",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Scanner",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lautsprecher",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Webcam",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Beamer",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mikrofon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Plotter",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2120,43 +2120,43 @@
       "answers": [
         {
           "text": "Meter",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sekunde",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kilogramm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Newton",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Ampere",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Watt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kelvin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Volt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mol",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lux",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2165,43 +2165,43 @@
       "answers": [
         {
           "text": "Krokodil",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Eidechse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Frosch",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Schlange",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schildkröte",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leguan",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Salamander",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Chamäleon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Adler",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2210,43 +2210,43 @@
       "answers": [
         {
           "text": "Frankreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schweiz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Italien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Norwegen",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Türkei",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "USA",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Portugal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "China",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2255,43 +2255,43 @@
       "answers": [
         {
           "text": "Elefant",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Giraffe",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krokodil",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Delfin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Pinguin",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Fledermaus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schlange",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Wal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krabbe",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2300,43 +2300,43 @@
       "answers": [
         {
           "text": "Deutschland",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Brasilien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Norwegen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Japan",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Österreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kanada",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Indien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Australien",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2345,43 +2345,43 @@
       "answers": [
         {
           "text": "2",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "4",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "7",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "9",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "11",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "15",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "17",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "21",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "23",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "25",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2390,43 +2390,43 @@
       "answers": [
         {
           "text": "Helium",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sauerstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Neon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Stickstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Argon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Chlor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Krypton",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Wasserstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Xenon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kohlenstoff",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2435,43 +2435,43 @@
       "answers": [
         {
           "text": "Java",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Python",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "C#",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "JavaScript",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Go",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "PHP",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Rust",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "HTML",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kotlin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "CSS",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2480,43 +2480,43 @@
       "answers": [
         {
           "text": "Magen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Herz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leber",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lunge",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Darm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Milz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Speiseröhre",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Niere",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Bauchspeicheldrüse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Gehirn",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2525,43 +2525,43 @@
       "answers": [
         {
           "text": "Tastatur",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Monitor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Maus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Drucker",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Scanner",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lautsprecher",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Webcam",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Beamer",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mikrofon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Plotter",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2570,43 +2570,43 @@
       "answers": [
         {
           "text": "Meter",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sekunde",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kilogramm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Newton",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Ampere",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Watt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kelvin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Volt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mol",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lux",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2615,43 +2615,43 @@
       "answers": [
         {
           "text": "Krokodil",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Eidechse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Frosch",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Schlange",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schildkröte",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leguan",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Salamander",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Chamäleon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Adler",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2660,43 +2660,43 @@
       "answers": [
         {
           "text": "Frankreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schweiz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Italien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Norwegen",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Türkei",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "USA",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Portugal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "China",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2705,43 +2705,43 @@
       "answers": [
         {
           "text": "Elefant",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Giraffe",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krokodil",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Delfin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Pinguin",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Fledermaus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schlange",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Wal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krabbe",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2750,43 +2750,43 @@
       "answers": [
         {
           "text": "Deutschland",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Brasilien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Norwegen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Japan",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Österreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kanada",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Indien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Australien",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2795,43 +2795,43 @@
       "answers": [
         {
           "text": "2",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "4",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "7",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "9",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "11",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "15",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "17",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "21",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "23",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "25",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2840,43 +2840,43 @@
       "answers": [
         {
           "text": "Helium",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sauerstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Neon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Stickstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Argon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Chlor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Krypton",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Wasserstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Xenon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kohlenstoff",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2885,43 +2885,43 @@
       "answers": [
         {
           "text": "Java",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Python",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "C#",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "JavaScript",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Go",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "PHP",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Rust",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "HTML",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kotlin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "CSS",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2930,43 +2930,43 @@
       "answers": [
         {
           "text": "Magen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Herz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leber",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lunge",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Darm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Milz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Speiseröhre",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Niere",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Bauchspeicheldrüse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Gehirn",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -2975,43 +2975,43 @@
       "answers": [
         {
           "text": "Tastatur",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Monitor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Maus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Drucker",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Scanner",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lautsprecher",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Webcam",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Beamer",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mikrofon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Plotter",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3020,43 +3020,43 @@
       "answers": [
         {
           "text": "Meter",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sekunde",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kilogramm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Newton",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Ampere",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Watt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kelvin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Volt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mol",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lux",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3065,43 +3065,43 @@
       "answers": [
         {
           "text": "Krokodil",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Eidechse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Frosch",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Schlange",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schildkröte",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leguan",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Salamander",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Chamäleon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Adler",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3110,43 +3110,43 @@
       "answers": [
         {
           "text": "Frankreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schweiz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Italien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Norwegen",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Türkei",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "USA",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Portugal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "China",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3155,43 +3155,43 @@
       "answers": [
         {
           "text": "Elefant",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Giraffe",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krokodil",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Delfin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Pinguin",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Fledermaus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schlange",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Wal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krabbe",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3200,43 +3200,43 @@
       "answers": [
         {
           "text": "Deutschland",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Brasilien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Norwegen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Japan",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Österreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kanada",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Indien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Australien",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3245,43 +3245,43 @@
       "answers": [
         {
           "text": "2",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "4",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "7",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "9",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "11",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "15",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "17",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "21",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "23",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "25",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3290,43 +3290,43 @@
       "answers": [
         {
           "text": "Helium",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sauerstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Neon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Stickstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Argon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Chlor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Krypton",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Wasserstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Xenon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kohlenstoff",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3335,43 +3335,43 @@
       "answers": [
         {
           "text": "Java",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Python",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "C#",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "JavaScript",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Go",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "PHP",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Rust",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "HTML",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kotlin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "CSS",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3380,43 +3380,43 @@
       "answers": [
         {
           "text": "Magen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Herz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leber",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lunge",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Darm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Milz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Speiseröhre",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Niere",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Bauchspeicheldrüse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Gehirn",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3425,43 +3425,43 @@
       "answers": [
         {
           "text": "Tastatur",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Monitor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Maus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Drucker",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Scanner",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lautsprecher",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Webcam",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Beamer",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mikrofon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Plotter",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3470,43 +3470,43 @@
       "answers": [
         {
           "text": "Meter",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sekunde",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kilogramm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Newton",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Ampere",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Watt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kelvin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Volt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mol",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lux",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3515,43 +3515,43 @@
       "answers": [
         {
           "text": "Krokodil",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Eidechse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Frosch",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Schlange",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schildkröte",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leguan",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Salamander",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Chamäleon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Adler",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3560,43 +3560,43 @@
       "answers": [
         {
           "text": "Frankreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schweiz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Italien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Norwegen",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Türkei",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "USA",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Portugal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "China",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3605,43 +3605,43 @@
       "answers": [
         {
           "text": "Elefant",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Giraffe",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krokodil",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Delfin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Pinguin",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Fledermaus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schlange",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Wal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krabbe",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3650,43 +3650,43 @@
       "answers": [
         {
           "text": "Deutschland",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Brasilien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Norwegen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Japan",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Österreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kanada",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Indien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Australien",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3695,43 +3695,43 @@
       "answers": [
         {
           "text": "2",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "4",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "7",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "9",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "11",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "15",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "17",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "21",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "23",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "25",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3740,43 +3740,43 @@
       "answers": [
         {
           "text": "Helium",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sauerstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Neon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Stickstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Argon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Chlor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Krypton",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Wasserstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Xenon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kohlenstoff",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3785,43 +3785,43 @@
       "answers": [
         {
           "text": "Java",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Python",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "C#",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "JavaScript",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Go",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "PHP",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Rust",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "HTML",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kotlin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "CSS",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3830,43 +3830,43 @@
       "answers": [
         {
           "text": "Magen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Herz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leber",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lunge",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Darm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Milz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Speiseröhre",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Niere",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Bauchspeicheldrüse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Gehirn",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3875,43 +3875,43 @@
       "answers": [
         {
           "text": "Tastatur",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Monitor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Maus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Drucker",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Scanner",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lautsprecher",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Webcam",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Beamer",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mikrofon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Plotter",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3920,43 +3920,43 @@
       "answers": [
         {
           "text": "Meter",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sekunde",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kilogramm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Newton",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Ampere",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Watt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kelvin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Volt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mol",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lux",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -3965,43 +3965,43 @@
       "answers": [
         {
           "text": "Krokodil",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Eidechse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Frosch",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Schlange",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schildkröte",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leguan",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Salamander",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Chamäleon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Adler",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4010,43 +4010,43 @@
       "answers": [
         {
           "text": "Frankreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schweiz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Italien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Norwegen",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Türkei",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "USA",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Portugal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "China",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4055,43 +4055,43 @@
       "answers": [
         {
           "text": "Elefant",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Giraffe",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krokodil",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Delfin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Pinguin",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Fledermaus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schlange",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Wal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Krabbe",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4100,43 +4100,43 @@
       "answers": [
         {
           "text": "Deutschland",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Brasilien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Norwegen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Japan",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Österreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kanada",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Indien",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Australien",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4145,43 +4145,43 @@
       "answers": [
         {
           "text": "2",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "4",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "7",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "9",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "11",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "15",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "17",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "21",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "23",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "25",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4190,43 +4190,43 @@
       "answers": [
         {
           "text": "Helium",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sauerstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Neon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Stickstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Argon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Chlor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Krypton",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Wasserstoff",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Xenon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kohlenstoff",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4235,43 +4235,43 @@
       "answers": [
         {
           "text": "Java",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Python",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "C#",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "JavaScript",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Go",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "PHP",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Rust",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "HTML",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kotlin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "CSS",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4280,43 +4280,43 @@
       "answers": [
         {
           "text": "Magen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Herz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leber",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lunge",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Darm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Milz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Speiseröhre",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Niere",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Bauchspeicheldrüse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Gehirn",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4325,43 +4325,43 @@
       "answers": [
         {
           "text": "Tastatur",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Monitor",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Maus",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Drucker",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Scanner",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lautsprecher",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Webcam",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Beamer",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mikrofon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Plotter",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4370,43 +4370,43 @@
       "answers": [
         {
           "text": "Meter",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Sekunde",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Kilogramm",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Newton",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Ampere",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Watt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Kelvin",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Volt",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Mol",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Lux",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4415,43 +4415,43 @@
       "answers": [
         {
           "text": "Krokodil",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Eidechse",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Frosch",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Schlange",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schildkröte",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Hai",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Leguan",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Salamander",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Chamäleon",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Adler",
-          "correct": false
+          "correct": "n"
         }
       ]
     },
@@ -4460,43 +4460,43 @@
       "answers": [
         {
           "text": "Frankreich",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Schweiz",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Italien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Norwegen",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Spanien",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "Türkei",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Polen",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "USA",
-          "correct": false
+          "correct": "n"
         },
         {
           "text": "Portugal",
-          "correct": true
+          "correct": "y"
         },
         {
           "text": "China",
-          "correct": false
+          "correct": "n"
         }
       ]
     }

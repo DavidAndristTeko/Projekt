@@ -4,6 +4,7 @@ from Function_PlayerFeedback import function_player_feedback
 from Function_check_JSON import function_check_answer
 from Function_CountPoints import function_CountPoints
 from Function_ContinuePlaying import function_ContinuePlaying
+from Function_CheckNewImport import function_CheckNewImport
 
 QuestionJSON, RemainingQuestions = function_importJSON("smart10.json", 1)
 
@@ -21,7 +22,7 @@ while True:
 #        UsedQuestions.append(Question) <- Überbleibsel aus PAP dass es nicht mehr braucht
 
         ChosenAnswer = function_player_feedback()
-
+        
         Result = function_check_answer(ChosenAnswer, CurrentOption, QuestionJSON)
 
         if Result == True:
@@ -40,6 +41,10 @@ while True:
 
         QuestionNumber += 1
 
+    if ContinuePlaying == False:
+        break
+
+    QuestionJSON, RemainingQuestions = function_CheckNewImport(RemainingQuestions)
     
 
 
