@@ -17,13 +17,13 @@ while True:
     QuestionNumber = 0
 #    UsedQuestions = [] <- Überbleibsel aus PAP dass es nicht mehr braucht
 
-    while QuestionJSON:
+    while QuestionNumber < len(QuestionJSON[0]["answers"]):
         Question, CurrentOption = function_DisplayQuestion(QuestionJSON, QuestionNumber)
 #        UsedQuestions.append(Question) <- Überbleibsel aus PAP dass es nicht mehr braucht
 
         ChosenAnswer = function_player_feedback()
-        
-        Result = function_check_answer(ChosenAnswer, CurrentOption, QuestionJSON)
+
+        Result = function_check_answer(ChosenAnswer, CurrentOption)
 
         if Result == True:
             print("Korrekt!")
