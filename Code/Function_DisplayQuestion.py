@@ -1,10 +1,19 @@
 def function_DisplayQuestion(QuestionJSON, QuestionNumber):
-    Question = QuestionJSON[0]["question"]
-    Answers = QuestionJSON[0]["answers"]
+    """
+    Docstring for function_DisplayQuestion
 
-    print(Question)
+    :param QuestionJSON: Fragenblock der Aktuell beantwortet wird
+    :param QuestionNumber: Angabe welche Option vom Fragenblock beantwortet wird
+    """
+    #Frage & dazugehörige Optionen werden separat gespeichert
+    Question = QuestionJSON[0]["question"]
+    Options = QuestionJSON[0]["answers"]
+
+    #Frage wird ausgegeben
+    print(Question,"\n")
     
-    CurrentOption = Answers[QuestionNumber]
-    print(CurrentOption["text"])
+    #Option welche beantwortet werden soll, wird ausgegeben
+    CurrentOption = Options[QuestionNumber]
+    print(CurrentOption["text"],"\n")
 
     return CurrentOption

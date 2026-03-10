@@ -3,16 +3,12 @@ from pathlib import Path
 from typing import List
 
 # Funktion wird definiert
-def function_importJSON(path: str, listenposition: int):
+def function_importJSON(path, listenposition):
     """
-    Lädt eine JSON-Datei mit Struktur:
-    {
-      "questions": [
-        { "question": "...", "answers": [...] },
-        ...
-      ]
-    }
-    und gibt die ersten n Fragen zurück.
+    Docstring for function_importJSON
+
+    :param path: Pfad zur JSON Datei
+    :param listenposition: Variable für Listenposition
     """
     # Datei wird geöffnet
     raw = Path(path).read_text(encoding="utf-8")
