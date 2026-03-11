@@ -2,7 +2,7 @@ import pytest
 from Function_check_JSON import function_check_answer
  
 yes = "y"
-no = "no"
+no = "n"
 Option_1 = {'text': 'Elefant', 'correct': 'y'}
 Option_2 = {'text': 'Elefant', 'correct': 'n'}
 
